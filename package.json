@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bcde123/CryptoWallet#readme",
   "dependencies": {
+    "cryptowallet": "file:",
     "dotenv": "^16.4.7",
     "web3": "^4.16.0"
   }
