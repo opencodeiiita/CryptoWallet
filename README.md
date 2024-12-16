@@ -17,34 +17,6 @@ CryptoWallet is an **open-source cryptocurrency wallet** designed for simplicity
 
 ---
 
-## 🔧 How to Use  
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/your-username/CryptoWallet.git
-   ```  
-
-2. **Install dependencies**:  
-   ```bash
-   npm install
-   ```  
-
-3. **Set up environment variables**:  
-   - Create a `.env` file in the project root.  
-   - Add your Supernode API key:  
-     ```
-     SUPERNODE_API_KEY=your-api-key
-     ```  
-
-4. **Run the project locally**:  
-   ```bash
-   npm start
-   ```  
-
-5. Open your browser and interact with the wallet UI.  
-
----
-
 ## 🛠️ Tools & Technologies  
 
 - **Frontend:** React.js  
