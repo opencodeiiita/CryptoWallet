@@ -1,0 +1,16 @@
+{
+  "name": "cryptowallet",
+  "version": "1.0.0",
+  "description": "**Your Open-Source Crypto Wallet Built on Web3.js & Solidity**",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "web3": "^4.16.0"
+  }
+}
