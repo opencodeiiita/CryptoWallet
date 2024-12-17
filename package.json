@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+
+    "cryptowallet": "file:",
+
     "dotenv": "^16.4.7",
     "web3": "^4.16.0"
   }
